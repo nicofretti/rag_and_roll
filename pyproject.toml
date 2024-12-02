@@ -1,0 +1,23 @@
+[project]
+name = "rag-and-roll"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=3.0.2",
+    "ipykernel>=6.29.5",
+    "llama-index-extractors-entity>=0.2.1",
+    "llama-index-readers-file>=0.2.2",
+    "llama-index-readers-pdf-marker>=0.2.0",
+    "llama-index-readers-pdf-table>=0.2.0",
+    "llama-index-readers-smart-pdf-loader>=0.2.0",
+    "llama-index-readers-web>=0.2.4",
+    "llama-index-readers-wikipedia>=0.2.0",
+    "llama-index>=0.11.20",
+    "pillow==10.4.0",
+    "pymupdf4llm>=0.0.17",
+    "pymupdf>=1.24.13",
+    "rich>=13.9.3",
+    "wikipedia>=1.4.0",
+]
