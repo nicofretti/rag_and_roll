@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 lesson_01/data/
+lesson_02/data/
+*.env
