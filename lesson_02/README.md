@@ -25,3 +25,5 @@ In this lesson, you'll:
 -   Chat engine building
 
 ## 🚀 Open the notebooks and let's get started!
+
+Documentation: [LlamaIndex.querying](https://docs.llamaindex.ai/en/stable/module_guides/querying/)

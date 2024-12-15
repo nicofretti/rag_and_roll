@@ -1,10 +1,5 @@
 # Lesson 01: Introduction to RAG with LlamaIndex
 
-<p align="center">
-    <img style="width:300px;height:200px" src="../img/base_rag.png"/>
-    <img style="width:300px;height:200px" src="../img/01_vector_store_query.png"/>
-</p>
-
 In this lesson, you'll:
 
 -   Learn how to set up LlamaIndex
@@ -12,6 +7,11 @@ In this lesson, you'll:
 -   Create chunks and nodes for the index
 -   Create & Query the document using natural language
 -   Understand how RAG enhances LLM responses
+
+<p align="center">
+    <img style="width:300px;height:200px" src="../img/base_rag.png"/>
+    <img style="width:300px;height:200px" src="../img/01_vector_store_query.png"/>
+</p>
 
 ### 🗺️ Roadmap
 
@@ -28,4 +28,4 @@ In this lesson, you'll:
 
 ## 🚀 Open the notebooks and let's get started!
 
-Documentation: [LlamaIndex](https://docs.llamaindex.ai/en/stable/module_guides/indexing/)
+Documentation: [LlamaIndex.indexing](https://docs.llamaindex.ai/en/stable/module_guides/indexing/)
