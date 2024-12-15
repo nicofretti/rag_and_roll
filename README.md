@@ -31,12 +31,12 @@ Retrieval-Augmented Generation (RAG) supercharges LLMs by combining them with ex
 -   🐍 Python 3.8+
 -   🤖 Basic understanding of LLMs
 -   💻 Notebooks familiarity
-## 📋 Prerequisites
-
--   🐍 Python 3.8+
--   🤖 Basic understanding of LLMs
--   💻 Notebooks familiarity
 -   🔑 OpenAI API key (optional, you can also use local models)
+
+## 🚀 Getting Started
+
+-   📦 **Lesson 01**: Learn how to load and ingest data, and create your first index.
+-   📦 **Lesson 02**: Discover how to filter and rerank chunks, and build your first chat engine.
 
 ## 📄 License
 

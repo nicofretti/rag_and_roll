@@ -8,6 +8,11 @@ In this lesson, you'll:
 -   💬 Create & Query the document using natural language
 -   🤖 Understand how RAG enhances LLM responses
 
+<p align="center">
+    <img style="width:400px;height:200px" src="../img/base_rag.png"/>
+    <img style="width:400px;height:200px" src="../img/01_vector_store_query.png"/>
+</p>
+
 ### 🗺️ Roadmap
 
 1. 🛠️ **Hands-on:** Load and process documents of a Wikipedia page (`11_hands_on_problem.ipynb`)
@@ -22,3 +27,5 @@ In this lesson, you'll:
 -   📝 Response Generation
 
 ## 🚀 Open the notebooks and let's get started!
+
+Documentation: [LlamaIndex](https://docs.llamaindex.ai/en/stable/module_guides/indexing/)
