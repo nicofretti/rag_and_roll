@@ -2,14 +2,14 @@
 
 In this lesson, you'll:
 
--   🚀 Explore retrieval techniques
--   🔄 Transform the user question into an appropriate query
--   📄 Filter and rerank nodes
--   🧩 Build a chat engine
+-   Explore retrieval techniques
+-   Transform the user question into an appropriate query
+-   Filter and rerank nodes
+-   Build a chat engine
 
 <p align="center">
-    <img style="width:400px;height:200px" src="../img/02_reciprocal_rerank.png"/>
-    <img style="width:400px;height:200px" src="../img/02_rag_tecniques.png"/>
+    <img style="height:200px" src="../img/02_reciprocal_rerank.png"/>
+    <img style="height:200px" src="../img/02_rag_tecniques.png"/>
 </p>
 
 ### 🗺️ Roadmap
@@ -19,9 +19,9 @@ In this lesson, you'll:
 
 ## 🎓 Key Concepts
 
--   🔍 Retrieval techniques
--   🔄 Query transformation
--   📄 Node filtering and reranking
--   🧩 Chat engine construction
+-   Retrieval techniques
+-   Query transformation
+-   Node filtering and reranking
+-   Chat engine building
 
 ## 🚀 Open the notebooks and let's get started!
